@@ -1,5 +1,5 @@
 # reconhecimento-mascara-yolo
-Projeto de dissertação iniciado 2020. Neste projeto foi estuado os três modelos YOLOv2. YOLOv3 e o até então estado da arte YOLOv4. O novo estado da arte YOLOv7 foi lançado somente em julho /2022, reconhecido pelo autor original da arquitetura YOLO.
+Projeto de dissertação iniciado 2020. Neste projeto foi estuado os três modelos: YOLOv2, YOLOv3 e o até então estado da arte YOLOv4. O novo estado da arte YOLOv7 foi lançado somente em julho /2022, reconhecido pelo autor original da arquitetura YOLO.
 
 # resultados
 
