@@ -4,3 +4,7 @@ dataset-yolo-90-10.zip filter=lfs diff=lfs merge=lfs -text
 70-30_yolov2.zip filter=lfs diff=lfs merge=lfs -text
 70-30_yolov3.zip filter=lfs diff=lfs merge=lfs -text
 70-30_yolov4.zip filter=lfs diff=lfs merge=lfs -text
+80-20_yolov2.zip filter=lfs diff=lfs merge=lfs -text
+80-20_yolov3.zip filter=lfs diff=lfs merge=lfs -text
+80-20_yolov4 filter=lfs diff=lfs merge=lfs -text
+80-20_yolov4.zip filter=lfs diff=lfs merge=lfs -text
